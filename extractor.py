@@ -10,7 +10,7 @@ By Tshiamo Komane
 from PIL import Image  # makes use of the pillow library
 from PIL.ExifTags import TAGS
 
-image = Image.open("image2.jpg")
+image = Image.open("image.jpg")
 info = image._getexif()  # creates a dictionary with tag-value exif data
 
 for tag, value in info.items():
