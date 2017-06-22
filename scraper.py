@@ -5,7 +5,7 @@ A Python script for scraping websites.
 
 Michael's idea was to scrape a jail roster website,
 whereas I'll be scraping the IMDb top 250, to discover
-which years where 'the best' for movies (according to IMDb voters)
+which years were 'the best' for movies (according to IMDb voters)
 
 By Tshiamo Komane
 """
