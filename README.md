@@ -10,9 +10,9 @@ This is a script that extracts <a href="https://en.wikipedia.org/wiki/Exif">Exif
 If you feel like testing out the script, add your own picture (titled 'image.jpg') to a clone of the directory and then run it accordingly.
 
 <h3>scraper.py</h3>
-I had some fun with this. Michael's tut was (understandably) too undetailed, given that it's directed towards non-programmers, so because I decided to do my own thing rather than just copy word for word, I winded up getting a bit lost, but I still think what I came up with is cool.
+I had some fun with this. Michael decided to scrape a jail roster, whereas I picked something more lighthearted.
 
-Essentially it scrapes the <a href="http://www.imdb.com/chart/top">IMDb Top 250</a> chart and returns a list of the 'best' years for movies according to users of the website. These means the years with the highest freqeuncy on the chart.
+Essentially this script scrapes the <a href="http://www.imdb.com/chart/top">IMDb Top 250</a> chart and returns a list of the 'best' years for movies according to users of the website. These means the years with the highest freqeuncy on the chart.
 
 Incidentally, these are the top  10 'best' years according to the users (paired with frequency):
 <ol>
