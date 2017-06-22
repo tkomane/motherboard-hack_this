@@ -35,4 +35,4 @@ countset = Counter(target)
 
 print('Most common:')
 for year, count in countset.most_common(10):
-    print('{}: {}'.format(year, count))
+    print('{}: {:>10} {}'.format(year[1:-1], count, 'movies'))
