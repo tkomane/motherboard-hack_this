@@ -14,18 +14,18 @@ I had some fun with this. Michael's tut was (understandably) too undetailed, giv
 
 Essentially it scrapes the <a href="http://www.imdb.com/chart/top">IMDb Top 250</a> chart and returns a list of the 'best' years for movies according to users of the website. These means the years with the highest freqeuncy on the chart.
 
-Incidentally, these are the top  10 'best' years according to the users:
+Incidentally, these are the top  10 'best' years according to the users paired with frequency):
 <ol>
-<li>(1995): 9</li>
-<li>(1957): 7</li>
-<li>(2000): 7</li>
-<li>(2003): 7</li>
-<li>(2001): 7</li>
-<li>(2009): 6</li>
-<li>(1975): 6</li>
-<li>(2014): 6</li>
-<li>(2010): 5</li>
-<li>(1997): 5</li>
+<li>1995: 9</li>
+<li>1957: 7</li>
+<li>2000: 7</li>
+<li>2003: 7</li>
+<li>2001: 7</li>
+<li>2009: 6</li>
+<li>1975: 6</li>
+<li>2014: 6</li>
+<li>2010: 5</li>
+<li>1997: 5</li>
 </ol>
 
-- not sure I agree.
+- hmm, not sure I agree.
