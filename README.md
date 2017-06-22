@@ -12,7 +12,7 @@ If you feel like testing out the script, add your own picture (titled 'image.jpg
 <h3>scraper.py</h3>
 I had some fun with this. Michael decided to scrape a jail roster, whereas I picked something more lighthearted.
 
-Essentially this script scrapes the <a href="http://www.imdb.com/chart/top">IMDb Top 250</a> chart and returns a list of the 'best' years for movies according to users of the website. These means the years with the highest freqeuncy on the chart.
+Essentially this script scrapes the <a href="http://www.imdb.com/chart/top">IMDb Top 250</a> chart and returns a list of the 'best' years for movies according to users of the website. This means the years with the highest freqeuncy on the chart.
 
 Incidentally, these are the top  10 'best' years according to the users (paired with frequency):
 <ol>
