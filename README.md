@@ -16,16 +16,16 @@ Essentially this script scrapes the <a href="http://www.imdb.com/chart/top">IMDb
 
 Incidentally, these are the top  10 'best' years according to the users (paired with frequency):
 <ol>
-<li>1995: 9</li>
-<li>1957: 7</li>
-<li>2000: 7</li>
-<li>2003: 7</li>
-<li>2001: 7</li>
-<li>2009: 6</li>
-<li>1975: 6</li>
-<li>2014: 6</li>
-<li>2010: 5</li>
-<li>1997: 5</li>
+<li>1995:          9 movies</li>
+<li>2001:          7 movies</li>
+<li>2000:          7 movies</li>
+<li>2003:          7 movies</li>
+<li>1957:          7 movies</li>
+<li>2014:          6 movies</li>
+<li>2009:          6 movies</li>
+<li>1975:          6 movies</li>
+<li>2006:          5 movies</li>
+<li>2007:          5 movies</li>
 </ol>
 
 - hmm, not sure I agree.
