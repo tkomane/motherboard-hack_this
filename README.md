@@ -28,4 +28,4 @@ Incidentally, these are the top  10 'best' years according to the users (paired 
 <li>2007:          5 movies</li>
 </ol>
 
-- hmm, not sure I agree. <small>Though to be fair, the last two spots are the most arbitrary, given the high freqeuncy of years with 5 movies</small>
+- hmm, not sure I agree. Though to be fair, the last two spots are the most arbitrary, given the high freqeuncy of years with 5 movies.
